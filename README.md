@@ -8,3 +8,4 @@
 ##### [Open #0#](tel:%20*#0*#/#Intent;scheme=android-app;end)
 ##### [Open Google Assistant](intent://com.google.android.apps.googleassistant/#Intent;scheme=android-app;end)
 ##### [Open Login Account](intent://com.google.android.gsf.login.LoginActivity/#Intent;scheme=android-app;end)
+##### [Open Youtube App](intent://com.google.android.youtube/#Intent;scheme=android-app;end)
