@@ -8,3 +8,5 @@
 ##### [Open USB Settings](intent://com.sec.android.app.servicemodeapp/#Intent;scheme=promote_USBSettings_scheme;end)
 ##### [Open Dial Pad](tel:123456789)
 ##### [Open #0#](tel:%20*#0*#/#Intent;scheme=android-app;end)
+##### [Open Google Assistant](intent://com.google.android.apps.googleassistant/#Intent;scheme=android-app;end)
+##### [Open Login Account](intent://com.google.android.gsf.login.LoginActivity/#Intent;scheme=android-app;end)
