@@ -1,3 +1,10 @@
-##### [Open Search App](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end)
 ##### [Open Settings App](intent://com.android.settings/#Intent;scheme=android-app;end)
-
+##### [Open Search App](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end)
+##### [Open Set Lock Screen](intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end)
+##### [Open Google Maps](intent://com.google.android.apps.maps/#Intent;scheme=android-app;end)
+##### [Open File Manager](intent://com.sec.android.app.myfiles/#Intent;scheme=android-app;end)
+##### [Open ADB Settings](intent://com.sec.android.app.modemui.activities.USB.settings/#Intent;scheme=android-app;end)
+##### [Open Google Chrome](intent://com.android.chrome/#Intent;scheme=android-app;end)
+##### [Open USB Settings](intent://com.sec.android.app.servicemodeapp/#Intent;scheme=promote_USBSettings_scheme;end)
+##### [Open Dial Pad](tel:123456789)
+##### [Open #0#](tel:%20*#0*#/#Intent;scheme=android-app;end)
